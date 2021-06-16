@@ -26,10 +26,10 @@
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/pwa": "3.3.2",
     "core-js": "3.8.1",
-    "nuxt": "2.14.9"
+    "nuxt": "2.15.7"
   },
   "devDependencies": {
-    "@nuxt/types": "2.14.9",
+    "@nuxt/types": "2.15.7",
     "@nuxt/typescript-build": "2.0.3",
     "@nuxtjs/eslint-config": "5.0.0",
     "@nuxtjs/eslint-config-typescript": "5.0.0",
